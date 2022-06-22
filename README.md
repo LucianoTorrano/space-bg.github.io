@@ -16,6 +16,12 @@ There are two different ways to get the same effect, in both you have to use POO
 
 You can check this background here: https://lucianotorrano.github.io/space-bg.github.io/
 <br>
+
+GIF:<br>
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/91889090/174934638-00161710-dd80-470d-8f8d-b6c8e6f72df7.gif)
+
+
 <br>
 <h3>Español:</h3>
 
