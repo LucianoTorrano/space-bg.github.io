@@ -19,7 +19,7 @@ You can check this background here: https://lucianotorrano.github.io/space-bg.gi
 <br>
 <h3>Español:</h3>
 
-Fondo the pantalla hecho con HTML5 y Javascript. Las estrellas son dinámicas, por lo que cada vez que se refresque la pantalla o cambie el tamañano de la ventana van a aparecer en diferentes posiciones con diferentes tamaños. El fondo es interactivo, si presionás el click izquierdo del mouse las estrellas comenzaran a acelerar dando una sensación de viaje en el tiempo.
+Fondo the pantalla hecho con HTML5 y Javascript. Las estrellas son dinámicas, por lo que cada vez que se refresque la pantalla o cambie el tamaño de la ventana van a aparecer en diferentes posiciones con diferentes tamaños. El fondo es interactivo, si presionás el click izquierdo del mouse las estrellas comenzaran a acelerar dando una sensación de viaje en el tiempo.
 
 <b>¿Cómo lo hice?</b>
 
